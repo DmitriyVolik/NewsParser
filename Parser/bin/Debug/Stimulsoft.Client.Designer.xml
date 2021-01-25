@@ -1,0 +1,3012 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Stimulsoft.Client.Designer</name>
+    </assembly>
+    <members>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartConditionsCollectionControl">
+            <summary>
+            StiCloudChartConditionsCollectionControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartConditionsCollectionControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartConditionZoneControl">
+            <summary>
+            StiCloudChartConditionZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartConditionZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.Editor.StiChartTrendLinesZoneControl">
+            <summary>
+            StiChartTrendLinesZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.Editor.StiChartTrendLinesZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.Editor.StiCloudChartTrendLinesCollectionControl">
+            <summary>
+            StiCloudChartTrendLinesCollectionControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.Editor.StiCloudChartTrendLinesCollectionControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudAreaControl">
+            <summary>
+            StiCloudAreaControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudAreaControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartControl">
+            <summary>
+            StiCloudChartControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartWindow">
+            <summary>
+            StiCloudChartWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudDrilldownPageWindow">
+            <summary>
+            StiCloudDrilldownPageWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudDrilldownPageWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudLabelsControl">
+            <summary>
+            StiCloudLabelsControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudLabelsControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudSeriesControl">
+            <summary>
+            StiCloudSeriesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudSeriesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudStylesControl">
+            <summary>
+            StiCloudStylesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudStylesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartFiltersCollectionControl">
+            <summary>
+            StiCloudChartFiltersCollectionControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartFiltersCollectionControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartFilterZoneControl">
+            <summary>
+            StiCloudChartFilterZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartFilterZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudPageListOfValuesControl">
+            <summary>
+            StiCloudPageListOfValuesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudPageListOfValuesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudTreeViewBoxSourceControl">
+            <summary>
+            StiCloudTreeViewBoxSourceControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudTreeViewBoxSourceControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartAxesControl">
+            <summary>
+            StiCloudChartAxesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartAxesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartLabelsControl">
+            <summary>
+            StiCloudChartLabelsControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartLabelsControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartLegendControl">
+            <summary>
+            StiCloudChartLegendControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartLegendControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartStylesControl">
+            <summary>
+            StiCloudChartStylesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartStylesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartTypesControl">
+            <summary>
+            StiCloudChartTypesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartTypesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Chart.StiCloudChartWizardWindow">
+            <summary>
+            StiCloudChartWizardWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Chart.StiCloudChartWizardWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudChartDesigner">
+            <summary>
+            Class describes designer of the component - StiChart.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudChartDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudChartDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Check.StiCheckControl">
+            <summary>
+            StiCheckControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Check.StiCheckControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Check.StiChecksBalloonUserControl">
+            <summary>
+            StiChecksBalloonUserControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Check.StiChecksBalloonUserControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Check.StiCheckSettingsWindow">
+            <summary>
+            StiCheckSettingsWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Check.StiCheckSettingsWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Check.StiCheckStatusControl">
+            <summary>
+            StiCheckStatusControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Check.StiCheckStatusControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Check.StiChecksViewerWindow">
+            <summary>
+            StiChecksViewerWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Check.StiChecksViewerWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudColorScaleConditionZoneControl">
+            <summary>
+            StiCloudColorScaleConditionZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudColorScaleConditionZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudConditionItemZoneControl">
+            <summary>
+            StiCloudConditionItemZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudConditionItemZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudConditionsEditorWindow">
+            <summary>
+            StiCloudConditionsEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudConditionsEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudConditionZoneControl">
+            <summary>
+            StiCloudConditionZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudConditionZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudDataBarConditionZoneControl">
+            <summary>
+            StiCloudDataBarConditionZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudDataBarConditionZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudIconSetConditionZoneControl">
+            <summary>
+            StiCloudIconSetConditionZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudIconSetConditionZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.ImageEditor.StiFontIconSelectionControl">
+            <summary>
+            StiFontIconSelectionControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.ImageEditor.StiFontIconSelectionControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudBandWindow">
+            <summary>
+            StiCloudBandWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudBandWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudBarCodeEditorWindow">
+            <summary>
+            StiCloudBarCodeEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudBarCodeEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudColorCollectionEditorWindow">
+            <summary>
+            StiCloudColorCollectionEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudColorCollectionEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudColorCollectionZoneControl">
+            <summary>
+            StiCloudColorCollectionZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudColorCollectionZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudContainerSelectWindow">
+            <summary>
+            StiCloudContainerSelectWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudContainerSelectWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudDataSelectionControl">
+            <summary>
+            StiCloudDataSelectionControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudDataSelectionControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudDeleteUsedResourceWindow">
+            <summary>
+            StiCloudDeleteUsedResourceWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudDeleteUsedResourceWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudIconEditorWindow">
+            <summary>
+            StiCloudIconEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudIconEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudImageEditorWindow">
+            <summary>
+            StiCloudImageEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudImageEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudInteractionDrillDownPageSelectWindow">
+            <summary>
+            StiCloudInteractionDrillDownPageSelectWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudInteractionDrillDownPageSelectWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudPageSetupWindow">
+            <summary>
+            StiCloudPageSetupWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudPageSetupWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudShapeEditorWindow">
+            <summary>
+            StiCloudShapeEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudShapeEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudSimpleImageEditorWindow">
+            <summary>
+            StiCloudSimpleImageEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudSimpleImageEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudSparklineEditorWindow">
+            <summary>
+            StiCloudSparklineEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudSparklineEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudSubReportPageSelectWindow">
+            <summary>
+            StiCloudSubReportPageSelectWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudSubReportPageSelectWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.StiCloudTableOfContentsEditorWindow">
+            <summary>
+            StiCloudTableOfContentsEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.StiCloudTableOfContentsEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Components.TextFormats.StiCloudTextFormatEditorWindow">
+            <summary>
+            StiCloudTextFormatEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Components.TextFormats.StiCloudTextFormatEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudBandDesigner">
+            <summary>
+            Class describes designer of the component - StiBand.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudBandDesigner.GetActionFromPoint(System.Double,System.Double,Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Returns StiAction for specified component from point.
+            </summary>
+            <param name="x">x coordinate.</param>
+            <param name="y">y coordinate.</param>
+            <param name="component">Component for checking.</param>
+            <returns>Action for this point.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudBandDesigner.PointInRect(Stimulsoft.Report.Design.IStiDesignerBase,Stimulsoft.Report.Components.StiComponent,System.Int32,System.Int32)">
+            <summary>
+            Returns the action fits to the position of a point in the specified rectangle.
+            </summary>
+            <param name="x">X point.</param>
+            <param name="y">Y point.</param>
+            <returns>Action.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudBandDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudBarCodeDesigner">
+            <summary>
+            Class describes designer of the component - StiBarCode.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudBarCodeDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudBarCodeDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudCloneDesigner">
+            <summary>
+            Class describes designer of the component - StiClone.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudCloneDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudCloneDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudComponentDesigner">
+            <summary>
+            Class describes base designer of components.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudComponentDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designerControl">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudDataBandDesigner">
+            <summary>
+            Class describes designer of the component - StiDataBand.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudDataBandDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudDataBandDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudGroupHeaderBandDesigner">
+            <summary>
+            Class describes designer of the component - StiGroupHeaderBand.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGroupHeaderBandDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGroupHeaderBandDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudHorizontalLinePrimitiveDesigner">
+            <summary>
+            Class describes designer of the component - StiHorizontalLinePrimitive.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudHorizontalLinePrimitiveDesigner.GetActionFromPoint(System.Double,System.Double,Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Returns StiAction for specified component from point.
+            </summary>
+            <param name="x">x coordinate.</param>
+            <param name="y">y coordinate.</param>
+            <param name="component">Component for checking.</param>
+            <returns>Action for this point.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudHorizontalLinePrimitiveDesigner.PointInRect(Stimulsoft.Report.Design.IStiDesignerBase,Stimulsoft.Report.Components.StiComponent,System.Int32,System.Int32)">
+            <summary>
+            Returns the action fits to the position of a point in the specified rectangle.
+            </summary>
+            <param name="x">X point.</param>
+            <param name="y">Y point.</param>
+            <returns>Action.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudHorizontalLinePrimitiveDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudImageDesigner">
+            <summary>
+            Class describes designer of the component - StiImage.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudImageDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudImageDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudPageDesigner">
+            <summary>
+            Class describes designer of the component - StiPage.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudPageDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudPageDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudPointPrimitiveDesigner">
+            <summary>
+            Class describes designer of the component - StiEndPointPrimitiveDesigner.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudPointPrimitiveDesigner.GetActionFromPoint(System.Double,System.Double,Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Returns StiAction for specified component from point.
+            </summary>
+            <param name="x">x coordinate.</param>
+            <param name="y">y coordinate.</param>
+            <param name="component">Component for checking.</param>
+            <returns>Action for this point.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudPointPrimitiveDesigner.PointInRect(Stimulsoft.Report.Design.IStiDesignerBase,Stimulsoft.Report.Components.StiComponent,System.Int32,System.Int32)">
+            <summary>
+            Returns the action fits to the position of a point in the specified rectangle.
+            </summary>
+            <param name="x">X point.</param>
+            <param name="y">Y point.</param>
+            <returns>Action.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudPointPrimitiveDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudRectanglePrimitiveDesigner">
+            <summary>
+            Class describes designer of the component - StiRectanglePrimitive.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudRectanglePrimitiveDesigner.GetActionFromPoint(System.Double,System.Double,Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Returns StiAction for specified component from point.
+            </summary>
+            <param name="x">x coordinate.</param>
+            <param name="y">y coordinate.</param>
+            <param name="component">Component for checking.</param>
+            <returns>Action for this point.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudRectanglePrimitiveDesigner.PointInRect(Stimulsoft.Report.Design.IStiDesignerBase,Stimulsoft.Report.Components.StiComponent,System.Int32,System.Int32)">
+            <summary>
+            Returns the action fits to the position of a point in the specified rectangle.
+            </summary>
+            <param name="x">X point.</param>
+            <param name="y">Y point.</param>
+            <returns>Action.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudRectanglePrimitiveDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudRichTextDesigner">
+            <summary>
+            Class describes designer of the component - StiRichText.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudRichTextDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudRichTextDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudShapeDesigner">
+            <summary>
+            Class describes designer of the component - StiShape.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudShapeDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudShapeDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudSparklineDesigner">
+            <summary>
+            This class describes a designer of the Sparkline component.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudSparklineDesigner.#ctor(Stimulsoft.Report.Design.IStiDesignerBase)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudSubReportDesigner">
+            <summary>
+            Class describes designer of the component - StiSubReport.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudSubReportDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudSubReportDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudTableOfContentsDesigner">
+            <summary>
+            This class describes a designer of the TableOfContents component.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudTableOfContentsDesigner.CreateEditorForm(System.Object)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudTableOfContentsDesigner.#ctor(Stimulsoft.Report.Design.IStiDesignerBase)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudTextDesigner">
+            <summary>
+            Class describes designer of the component - StiText.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudTextDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudTextDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudVerticalLinePrimitiveDesigner">
+            <summary>
+            Class describes designer of the component - StiVerticalLinePrimitive.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudVerticalLinePrimitiveDesigner.GetActionFromPoint(System.Double,System.Double,Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Returns StiAction for specified component from point.
+            </summary>
+            <param name="x">x coordinate.</param>
+            <param name="y">y coordinate.</param>
+            <param name="component">Component for checking.</param>
+            <returns>Action for this point.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudVerticalLinePrimitiveDesigner.PointInRect(Stimulsoft.Report.Design.IStiDesignerBase,Stimulsoft.Report.Components.StiComponent,System.Int32,System.Int32)">
+            <summary>
+            Returns the action fits to the position of a point in the specified rectangle.
+            </summary>
+            <param name="x">X point.</param>
+            <param name="y">Y point.</param>
+            <returns>Action.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudVerticalLinePrimitiveDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiWatermarkControl">
+            <summary>
+            StiWatermarkControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiWatermarkControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiBooleanEditor">
+            <summary>
+            StiBooleanEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiBooleanEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCurrencyEditor">
+            <summary>
+            StiCurrencyEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCurrencyEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCustomEditor">
+            <summary>
+            StiCustomEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCustomEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiDateEditor">
+            <summary>
+            StiDateEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiDateEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiNumberEditor">
+            <summary>
+            StiNumberEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiNumberEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiPercentageEditor">
+            <summary>
+            StiPercentageEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiPercentageEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiTimeEditor">
+            <summary>
+            StiTimeEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiTimeEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudAlignCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudAlignCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudClearContentCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudClearContentCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.ContextTools.StiCloudClearContentCTService.GetInterfaceType">
+            <summary>
+            Returns the type of interface with which works this service.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.ContextTools.StiCloudCTService">
+            <summary>
+            Describes the base class for building context menu of designer.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudDesignComponentCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudDesignComponentCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudInteractionCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudInteractionCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.ContextTools.StiCloudInteractionCTService.GetInterfaceType">
+            <summary>
+            Returns the type of interface with which works this service.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.ContextTools.StiCloudInteractionCTService.CreateMenuItem(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates the item a menu for this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectCopyCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectCopyCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectCutCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectCutCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectDeleteCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectDeleteCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectPasteCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectPasteCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectSelectAllCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudObjectSelectAllCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudOrderCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudOrderCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudPageDeleteCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudPageDeleteCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudPageDuplicateCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudPageDuplicateCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudPageNewCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudPageNewCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudPropertiesCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudPropertiesCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudTableCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudTableCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudTextFormatCTService.PageType">
+            <summary>
+            Returns the type of page with which works this service.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.ContextTools.StiCloudTextFormatCTService.GroupCategory">
+            <summary>
+            Gets value for group items menu.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Controls.StiCloudHorRollerLine">
+            <summary>
+            Class describes the horizontal ruler of the sizes.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Controls.StiCloudRollerLine">
+            <summary>
+            Class describes the base rule of the sizes.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Controls.StiCloudVerRollerLine">
+            <summary>
+            Class describes the vertical ruler of the sizes.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Controls.StiCloudBrushControl">
+            <summary>
+            StiCloudBrushControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Controls.StiCloudBrushControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Controls.StiCloudPageViewControl">
+            <summary>
+            StiCloudPageViewControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Controls.StiCloudPageViewControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Controls.StiCloudZoneContainerControl">
+            <summary>
+            StiCloudZoneContainerControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Controls.StiCloudZoneContainerControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Controls.StiCloudZoneControl">
+            <summary>
+            StiCloudZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Controls.StiCloudZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudCrossTabDesigner">
+            <summary>
+            Class describes designer of the component - StiCrossTab.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudCrossTabDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudCrossTabDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.CrossTab.StiCloudCrossTabDesignerWindow">
+            <summary>
+            StiCloudCrossTabDesignerWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.CrossTab.StiCloudCrossTabDesignerWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.DataView.StiDataView">
+            <summary>
+            StiDataView
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.DataView.StiDataView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudBusinessObjectEditWindow">
+            <summary>
+            StiCloudBusinessObjectEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudBusinessObjectEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudCalcDataColumnEditWindow">
+            <summary>
+            StiCloudCalcDataColumnEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudCalcDataColumnEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudCategoryEditWindow">
+            <summary>
+            StiCloudCategoryEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudCategoryEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudColumnsGroup">
+            <summary>
+            StiCloudColumnsGroup
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudColumnsGroup.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudColumnsResults">
+            <summary>
+            StiCloudColumnsResults
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudColumnsResults.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudCrossTabDataSourceEditWindow">
+            <summary>
+            StiCloudCrossTabDataSourceEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudCrossTabDataSourceEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudCsvDatabaseEditWindow">
+            <summary>
+            StiCloudCsvDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudCsvDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDatabaseSelectWindow">
+            <summary>
+            StiCloudDatabaseSelectWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDatabaseSelectWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder">
+            <summary>
+            Used to build trees by the data source.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder.BuildColumns(Stimulsoft.Report.Dictionary.StiDataSource,Stimulsoft.Report.Dictionary.StiDataColumnsCollection,Stimulsoft.Report.Wpf.Node,System.Boolean)">
+            <summary>
+            Build StiTreeViewItem from the column collection.
+            </summary>
+            <param name="dataSource">Data source.</param>
+            <param name="columns">Column collection.</param>
+            <param name="parentNode">StiTreeViewItem in which StiTreeViewItem obtained will be added.</param>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder.BuildRelations(Stimulsoft.Report.Dictionary.StiDataRelationsCollection,Stimulsoft.Report.Wpf.Node,Stimulsoft.Report.Dictionary.StiDataSourcesCollection,System.Boolean)">
+            <summary>
+            Builds StiTreeViewItem fom the collection of relations.
+            </summary>
+            <param name="relations">Collection of relations.</param>
+            <param name="parentNode">StiTreeViewItem in which StiTreeViewItem obtained will be added.</param>
+            <param name="datas">Data Source collection.</param>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder.BuildDataSource(Stimulsoft.Report.Dictionary.StiDataSource,Stimulsoft.Report.Wpf.Node,Stimulsoft.Report.Dictionary.StiDataSourcesCollection,System.Boolean)">
+            <summary>
+            Builds StiTreeViewItem from the Data Source.
+            </summary>
+            <param name="dataSource">Data source.</param>
+            <param name="parentNode">StiTreeViewItem in which StiTreeViewItem obtained will be added.</param>
+            <param name="datas">Data Source collection.</param>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder.BuildDataSource(Stimulsoft.Report.Dictionary.StiDataSource,Stimulsoft.Report.Wpf.Node@,System.Boolean)">
+            <summary>
+            Builds StiTreeViewItem from the Data Source.
+            </summary>
+            <param name="dataSource">Data Source for building.</param>
+            <param name="dataNode">Builded StiTreeViewItem.</param>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder.BuildColumns(Stimulsoft.Report.Dictionary.StiBusinessObject,Stimulsoft.Report.Dictionary.StiDataColumnsCollection,Stimulsoft.Report.Wpf.Node,System.Boolean)">
+            <summary>
+            Build TreeNode from the column collection.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder.BuildBusinessObject(Stimulsoft.Report.Dictionary.StiBusinessObject,Stimulsoft.Report.Wpf.NodeTreeViewItem,System.Boolean)">
+            <summary>
+            Builds TreeNode from the Business Object.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder.BuildBusinessObject(Stimulsoft.Report.Dictionary.StiBusinessObject,Stimulsoft.Report.Wpf.NodeTreeViewItem,System.Boolean,System.Boolean)">
+            <summary>
+            Builds TreeNode from the Business Object.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilder.BuildBusinessObject(Stimulsoft.Report.Dictionary.StiBusinessObject,Stimulsoft.Report.Wpf.Node,System.Boolean)">
+            <summary>
+            Builds TreeNode from the Business Object.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataBuilderEx.#ctor(Stimulsoft.Client.Designer.StiDesignerControl,System.Collections.Hashtable,System.Collections.Hashtable,System.Collections.Hashtable)">
+            <summary>
+            Creates a new object of the type StiCloudDataBuilderEx.
+            </summary>
+            <param name="usedRelations">Relations being used in the dictionary.</param>
+            <param name="usedDataSources">Data sources being used.</param>
+            <param name="usedColumns">Columns being used.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDataColumnEditWindow">
+            <summary>
+            StiCloudDataColumnEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataColumnEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDataControl">
+            <summary>
+            StiCloudDataControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataControl.GetDataAdapterCategories(Stimulsoft.Report.Dictionary.StiDataAdapterService,Stimulsoft.Report.Dictionary.StiDataCollection)">
+            <summary>
+            Returns name of category for DataAdapter.
+            </summary>
+            <param name="dataAdapter">Adapter of data.</param>
+            <param name="dataStore">Collection of data.</param>
+            <returns>Name of category.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDataControlWindow">
+            <summary>
+            StiCloudDataControlWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataControlWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataEditors.DataStoreAdapterEditAsync(Stimulsoft.Client.Designer.StiDesignerControl,Stimulsoft.Report.Dictionary.StiDataStoreAdapterService,Stimulsoft.Report.Dictionary.StiDictionary,Stimulsoft.Report.Dictionary.StiDataSource)">
+            <summary>
+            Calls the form for Data Source edition.
+            </summary>
+            <param name="dictionary">Dictionary in which Data Source is located.</param>
+            <param name="dataSource">Data Source.</param>
+            <returns>Result of gialog form.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataEditors.DataStoreAdapterNewAsync(Stimulsoft.Client.Designer.StiDesignerControl,Stimulsoft.Report.Dictionary.StiDataAdapterService,Stimulsoft.Report.Dictionary.StiDictionary,Stimulsoft.Report.Dictionary.StiDataSource)">
+            <summary>
+            Calls the form for a new Data Source edition.
+            </summary>
+            <param name="dictionary">Dictionary in which Data Source is located.</param>
+            <param name="dataSource">Data Source.</param>
+            <returns>Result of gialog form.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataEditors.VirtualAdapterEdit(Stimulsoft.Client.Designer.StiDesignerControl,Stimulsoft.Report.Dictionary.StiVirtualAdapterService,Stimulsoft.Report.Dictionary.StiDictionary,Stimulsoft.Report.Dictionary.StiDataSource)">
+            <summary>
+            Calls the form for Data Source edition.
+            </summary>
+            <param name="dictionary">Dictionary in which Data Source is located.</param>
+            <param name="dataSource">Data Source.</param>
+            <returns>Result of gialog form.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataEditors.VirtualAdapterNew(Stimulsoft.Client.Designer.StiDesignerControl,Stimulsoft.Report.Dictionary.StiVirtualAdapterService,Stimulsoft.Report.Dictionary.StiDictionary,Stimulsoft.Report.Dictionary.StiDataSource)">
+            <summary>
+            Calls the form for a new Data Source edition.
+            </summary>
+            <param name="dictionary">Dictionary in which Data Source is located.</param>
+            <param name="dataSource">Data Source.</param>
+            <returns>Result of gialog form.</returns>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDataParameterEditWindow">
+            <summary>
+            StiCloudDataParameterEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataParameterEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDataRelationEditWindow">
+            <summary>
+            StiCloudDataRelationEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataRelationEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDataSetNameWindow">
+            <summary>
+            StiCloudDataSetNameWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataSetNameWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDataStoreSourceEditWindow">
+            <summary>
+            StiCloudDataStoreSourceEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDataStoreSourceEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDBaseDatabaseEditWindow">
+            <summary>
+            StiCloudDBaseDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDBaseDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDialogInfoGetItemsFromColumnWindow">
+            <summary>
+            StiCloudDialogInfoGetItemsFromColumnWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDialogInfoGetItemsFromColumnWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDialogInfoItemsEditor">
+            <summary>
+            StiCloudDialogInfoItemsEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDialogInfoItemsEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDictionaryControl">
+            <summary>
+            StiCloudDictionaryControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDictionaryControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudDictionaryDropFilesControl">
+            <summary>
+            StiCloudDictionaryDropFilesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudDictionaryDropFilesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudExcelDatabaseEditWindow">
+            <summary>
+            StiCloudExcelDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudExcelDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudGisDatabaseEditWindow">
+            <summary>
+            StiCloudGisDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudGisDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudGoogleSheetsDatabaseEditWindow">
+            <summary>
+            StiCloudGoogleSheetsDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudGoogleSheetsDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudGroupZoneControl">
+            <summary>
+            StiCloudGroupZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudGroupZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudJsonDatabaseEditWindow">
+            <summary>
+            StiCloudJsonDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudJsonDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudNoSqlDatabaseEditWindow">
+            <summary>
+            StiCloudNoSqlDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudNoSqlDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudResourceEditWindow">
+            <summary>
+            StiCloudResourceEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudResourceEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudResultsZoneControl">
+            <summary>
+            StiCloudResultsZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudResultsZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudRetrieveColumnsWindow">
+            <summary>
+            StiCloudRetrieveColumnsWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudRetrieveColumnsWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudSelectDataWindow">
+            <summary>
+            StiCloudSelectDataWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudSelectDataWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudSelectPropertiesInAssemblyWindow">
+            <summary>
+            StiCloudSelectPropertiesInAssemblyWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudSelectPropertiesInAssemblyWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudSelectTypeOfBusinessObjectWindow">
+            <summary>
+            StiCloudSelectTypeOfBusinessObjectWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudSelectTypeOfBusinessObjectWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudSqlDatabaseEditWindow">
+            <summary>
+            StiCloudSqlDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudSqlDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudSqlExpressionsWindow">
+            <summary>
+            StiCloudSqlExpressionsWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudSqlExpressionsWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudVariableEditWindow">
+            <summary>
+            StiCloudVariableEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudVariableEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudViewDataSetWindow">
+            <summary>
+            StiCloudViewDataSetWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudViewDataSetWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudViewDataWindow">
+            <summary>
+            StiCloudViewDataWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudViewDataWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudVirtualSourceEditWindow">
+            <summary>
+            StiCloudVirtualSourceEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudVirtualSourceEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiCloudXmlDatabaseEditWindow">
+            <summary>
+            StiCloudXmlDatabaseEditWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiCloudXmlDatabaseEditWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Dictionary.StiNoDataControl">
+            <summary>
+            StiNoDataControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Dictionary.StiNoDataControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiCloudInteractionEditorWindow">
+            <summary>
+            StiCloudInteractionEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiCloudInteractionEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionBookmarkControl">
+            <summary>
+            StiInteractionBookmarkControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionBookmarkControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionCollapsingControl">
+            <summary>
+            StiInteractionCollapsingControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionCollapsingControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionCrossCollapsingControl">
+            <summary>
+            StiInteractionCrossCollapsingControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionCrossCollapsingControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionDrilldownControl">
+            <summary>
+            StiInteractionDrilldownControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionDrilldownControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionDrilldownParametersControl">
+            <summary>
+            StiInteractionDrilldownParametersControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionDrilldownParametersControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionHyperlinkControl">
+            <summary>
+            StiInteractionHyperlinkControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionHyperlinkControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionSelectionControl">
+            <summary>
+            StiInteractionSelectionControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionSelectionControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionSortControl">
+            <summary>
+            StiInteractionSortControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionSortControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionTagControl">
+            <summary>
+            StiInteractionTagControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionTagControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionToolTipControl">
+            <summary>
+            StiInteractionToolTipControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.Interaction.StiInteractionToolTipControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiCloudBorderEditorWindow">
+            <summary>
+            StiCloudBorderEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiCloudBorderEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiCloudCheckBallonControl">
+            <summary>
+            StiCloudCheckBallonControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiCloudCheckBallonControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiCloudConditionEditorWindow">
+            <summary>
+            StiCloudConditionEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiCloudConditionEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiCloudExpressionControl">
+            <summary>
+            StiCloudExpressionControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiCloudExpressionControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiCloudSystemTextEditorWindow">
+            <summary>
+            StiCloudSystemTextEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiCloudSystemTextEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiCloudTextEditorWindow">
+            <summary>
+            StiCloudTextEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiCloudTextEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiWpfRichTextEditorControl">
+            <summary>
+            StiWpfRichTextEditorControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiWpfRichTextEditorControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiWpfRichTextEditorWindow">
+            <summary>
+            StiWpfRichTextEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiWpfRichTextEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Editors.StiWpfSystemRichTextEditorWindow">
+            <summary>
+            StiWpfSystemRichTextEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Editors.StiWpfSystemRichTextEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudCodeEditor">
+            <summary>
+            StiCloudCodeEditor
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudCodeEditor.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.None">
+            <summary>
+            Deny all.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.Create">
+            <summary>
+            Allows to create an item.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.Delete">
+            <summary>
+            Allows to delete an item.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.Modify">
+            <summary>
+            Allows to modify an item.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.Run">
+            <summary>
+            Allows to run an item.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.View">
+            <summary>
+            Allows to view an item.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.ModifyView">
+            <summary>
+            Allows modify and view an item.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.CreateDeleteModifyView">
+            <summary>
+            Allows create, delete, modify and view an item.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.RunView">
+            <summary>
+            Allows run and view an item.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.Client.Designer.StiCloudPermissions.All">
+            <summary>
+            Allow any action with an item.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Panels.StiReportTreeControl">
+            <summary>
+            StiReportTreeControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Panels.StiReportTreeControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudGaugeControl">
+            <summary>
+            StiCloudGaugeControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGaugeControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudGaugeStylesControl">
+            <summary>
+            StiCloudGaugeStylesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGaugeStylesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudGaugeTypesControl">
+            <summary>
+            StiCloudGaugeTypesControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGaugeTypesControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudGaugeDesignerWindow">
+            <summary>
+            StiCloudGaugeDesignerWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGaugeDesignerWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudGaugeV2DesignerWindow">
+            <summary>
+            StiCloudGaugeV2DesignerWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGaugeV2DesignerWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiGaugePanelControl">
+            <summary>
+            StiGaugePanelControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiGaugePanelControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudGaugeDesigner">
+            <summary>
+            Class describes designer of the component - StiGauge.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGaugeDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGaugeDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiAddCultureWindow">
+            <summary>
+            StiAddCultureWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiAddCultureWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiGlobalizationEditorWindow">
+            <summary>
+            StiGlobalizationEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiGlobalizationEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Globalization.StiNoCultureControl">
+            <summary>
+            StiNoCultureControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Globalization.StiNoCultureControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Native.StiCloudDesignerLauncherWindow">
+            <summary>
+            StiCloudDesignerLauncherWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Native.StiCloudDesignerLauncherWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Native.StiNativeHtmlPreviewControl">
+            <summary>
+            StiNativeHtmlPreviewControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Native.StiNativeHtmlPreviewControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Native.StiNativeJsPreviewControl">
+            <summary>
+            StiNativeJsPreviewControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Native.StiNativeJsPreviewControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Native.StiNativeViewerControl">
+            <summary>
+            StiNativeViewerControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Native.StiNativeViewerControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Native.StiNativeViewerWindow">
+            <summary>
+            StiNativeViewerWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Native.StiNativeViewerWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudMapDesigner">
+            <summary>
+            Class describes designer of the component - StiMap.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudMapDesigner.Design(Stimulsoft.Report.Components.StiComponent)">
+            <summary>
+            Invokes a component designer.
+            </summary>
+            <param name="component">Component for edition.</param>
+            <returns>The result of invokes the component designer.</returns>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudMapDesigner.#ctor(Stimulsoft.Client.Designer.StiDesignerControl)">
+            <summary>
+            Creates a new designer of the component.
+            </summary>
+            <param name="designer">Report designer.</param>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudMapDesignerWindow">
+            <summary>
+            StiCloudMapDesignerWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudMapDesignerWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiMapTabChoroplethControl">
+            <summary>
+            StiMapTabChoroplethControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiMapTabChoroplethControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiMapTabColumnsControl">
+            <summary>
+            StiMapTabColumnsControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiMapTabColumnsControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiMapTabOnlineControl">
+            <summary>
+            StiMapTabOnlineControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiMapTabOnlineControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Password.StiCloudLoadPasswordWindow">
+            <summary>
+            StiCloudLoadPasswordWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Password.StiCloudLoadPasswordWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Password.StiCloudSavePasswordWindow">
+            <summary>
+            StiCloudSavePasswordWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Password.StiCloudSavePasswordWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.Properties.Resources.viewer">
+             <summary>
+               Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+            &lt;html&gt;
+            &lt;head&gt;
+                &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=10&quot; &gt;
+            	&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
+            	&lt;link href=&quot;stimulsoft.viewer.office2013.whiteblue.css&quot; rel=&quot;stylesheet&quot;&gt;    
+            	&lt;script src=&quot;stimulsoft.reports.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+            	&lt;script src=&quot;stimulsoft.viewer.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+                &lt;script src=&quot;report.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+            	
+            	&lt;script type=&quot;text/javascript&quot;&gt;
+            		var options = new Stimulsof [rest of string was truncated]&quot;;.
+             </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.PropertyGrid.RibbonSelectColorsControl">
+            <summary>
+            RibbonSelectColorsControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.PropertyGrid.RibbonSelectColorsControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.PropertyGrid.PropertyGridBrushControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.PropertyGrid.PropertyGridBrushExpressionControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.PropertyGrid.PropertyGridChangeFontControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudBandQuickButton">
+            <summary>
+            The class describes the StiCloudBandQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudDataRelationQuickButton">
+            <summary>
+            The class describes the StiCloudDataRelationQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudDataSourceQuickButton">
+            <summary>
+            The class describes the StiCloudDataSourceQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudImageQuickButton">
+            <summary>
+            The class describes the StiCloudImageQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudMasterComponentQuickButton">
+            <summary>
+            The class describes the StiCloudMasterComponentQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudQuickButton">
+            <summary>
+            The class describes the base type for the wpf quick button.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudRichTextQuickButton">
+            <summary>
+            The class describes the StiCloudRichTextQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudSelectAllQuickButton">
+            <summary>
+            The class describes the StiCloudSelectAllQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudTableCellCheckBoxQuickButton">
+            <summary>
+            The class describes the StiCloudTableCellCheckBoxQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudTableCellImageQuickButton">
+            <summary>
+            The class describes the StiCloudTableCellImageQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudTableCellRichTextQuickButton">
+            <summary>
+            The class describes the StiCloudTableCellRichTextQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudTableCellTextQuickButton">
+            <summary>
+            The class describes the StiCloudTableCellTextQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.QuickButtons.StiCloudTextQuickButton">
+            <summary>
+            The class describes the StiCloudTextQuickButton.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Ribbon.StiCloudNativeRibbonMenu">
+            <summary>
+            StiCloudNativeRibbonMenu
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiCloudNativeRibbonMenu.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiCloudPreviewProgressWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiCloudReportCheckerProgressControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013InfoUserControl">
+            <summary>
+            StiNativeMenuItem2013InfoUserControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013InfoUserControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013NewUserControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013OpenFilesUserControl">
+            <summary>
+            StiNativeMenuItem2013OpenFilesUserControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013OpenFilesUserControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013SaveAsUserControl">
+            <summary>
+            StiNativeMenuItem2013SaveAsUserControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013SaveAsUserControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013SaveUserControl">
+            <summary>
+            StiNativeMenuItem2013SaveUserControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiNativeMenuItem2013SaveUserControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Ribbon.StiRibbonMenuControl">
+            <summary>
+            StiRibbonMenuControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiRibbonMenuControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Ribbon.StiRibbonPageLayout.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Services.StiCloudDesignerInitService">
+            <summary>
+            This class describes base class for report designer services.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Services.StiCloudUndoRedo">
+            <summary>
+            This class helps with undo/redo in report designer.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Services.StiCloudUndoRedoService">
+            <summary>
+            This class describes service for control undo/redo operations in report designer.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiAboutWindow">
+            <summary>
+            StiAboutWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiAboutWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudClipboard">
+            <summary>
+            This class helps with Clipboard.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudClipboard.Set(System.String)">
+            <summary>
+            Store text to Clipboard.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudClipboard.Get">
+            <summary>
+            Restore text from Clipboard.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudGroup">
+            <summary>
+            This class describes groups of components.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudGroup.Clone">
+            <summary>
+            Creates a new object that is a copy of the current instance.
+            </summary>
+            <returns>A new object that is a copy of this instance.</returns>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudPageView">
+            <summary>
+            This class is used for drawing report page.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudReportSetupWindow">
+            <summary>
+            StiCloudReportSetupWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudReportSetupWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudUndoRedo">
+            <summary>
+            This class helps with undo/redo in report designer.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudUndoRedoService">
+            <summary>
+            This class describes service for control undo/redo operations in report designer.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.StiCloudUndoRedoService.UndoLimit">
+            <summary>
+            Gets or sets amount of undo/redo steps.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.StiCloudUndoRedoService.UndoStack">
+            <summary>
+            Gets or sets undo stack.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.StiCloudUndoRedoService.RedoStack">
+            <summary>
+            Gets or sets redo stack.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiConvert">
+            <summary>
+            This class helps convert coordinates.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiDesignerControl">
+            <summary>
+            StiDesignerControl
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.StiDesignerControl.Info">
+            <summary>
+            Gets or sets information which is necessary for the report designer.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.StiDesignerControl.ComponentsOnReport">
+            <summary>
+            Gets collection of components in current report.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.StiDesignerControl.ComponentsOnPage">
+            <summary>
+            Gets collection of components in current page.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.StiDesignerControl.SelectedTextComponentsOnPage">
+            <summary>
+            Gets collection of selected text components on current page.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Client.Designer.StiDesignerControl.SelectedComponentsOnPage">
+            <summary>
+            Gets collection of selected components on current page.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiDesignerControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiOptionsWindow">
+            <summary>
+            StiOptionsWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiOptionsWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleChartControl">
+            <summary>
+            StiCloudStyleChartControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleChartControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleComponentControl">
+            <summary>
+            StiCloudStyleComponentControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleComponentControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleCrossTabControl">
+            <summary>
+            StiCloudStyleCrossTabControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleCrossTabControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleDialogControl">
+            <summary>
+            StiCloudStyleDialogControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleDialogControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleGaugeControl">
+            <summary>
+            StiCloudStyleGaugeControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleGaugeControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleIndicatorControl">
+            <summary>
+            StiCloudStyleIndicatorControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleIndicatorControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleMapControl">
+            <summary>
+            StiCloudStyleMapControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleMapControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleTableControl">
+            <summary>
+            StiCloudStyleTableControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleTableControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleConditionsEditorWindow">
+            <summary>
+            StiCloudStyleConditionsEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleConditionsEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleConditionZoneControl">
+            <summary>
+            StiCloudStyleConditionZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleConditionZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleDesignerWindow">
+            <summary>
+            StiCloudStyleDesignerWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleDesignerWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStylesCreateWindow">
+            <summary>
+            StiCloudStylesCreateWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStylesCreateWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCloudStyleViewReportControl">
+            <summary>
+            StiCloudStyleViewReportControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCloudStyleViewReportControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Styles.StiCreateStyleBasedWindow">
+            <summary>
+            StiCreateStyleBasedWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Styles.StiCreateStyleBasedWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Toolbars.StiCloudComponentsToolboxWindow">
+            <summary>
+            StiCloudComponentsToolboxWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Toolbars.StiCloudComponentsToolboxWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Toolbars.StiCloudListToolboxControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Toolbars.StiCloudMapCategoryWindow">
+            <summary>
+            StiCloudMapCategoryWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Toolbars.StiCloudMapCategoryWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Toolbars.StiCloudShapeToolboxControl">
+            <summary>
+            StiCloudShapeToolboxControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Toolbars.StiCloudShapeToolboxControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Toolbars.StiCloudStatusBarService">
+            <summary>
+            This class describes report designer status bar.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Toolbars.StiCloudToolbarService">
+            <summary>
+            This class describes base service for report designer toolbar.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Toolbars.StiCloudToolboxToolbarService">
+            <summary>
+            This class describes report designer toolbar Toolbox.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Toolbars.StiCloudZoomToolbarService">
+            <summary>
+            This class describes report designer zoom bar.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Tools.StiCloudCreateToolService">
+            <summary>
+            This class describes report designer tool for component creation.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Tools.StiCloudSelectToolService.GetTextInControl(Stimulsoft.Report.Components.StiContainer,System.Double,System.Double)">
+            <summary>
+            Used for override copy.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Tools.StiCloudSelectToolService.ResetHighlightState">
+            <summary>
+            Used for override copy.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Tools.StiCloudSelectToolService.ResetHighlightState(Stimulsoft.Report.Components.StiContainer)">
+            <summary>
+            Used for override copy.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Tools.StiCloudSelectToolService.GetHighlightedText">
+            <summary>
+            Get highlighted text component.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Tools.StiCloudSelectToolService.GetHighlightedText(Stimulsoft.Report.Components.StiContainer)">
+            <summary>
+            Get highlighted text component.
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Tools.StiCloudToolService">
+            <summary>
+            This class describes base service, which used for creating report designer tool.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Trial.StiUsingTrialVersionWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Viewer.StiPreviewSettingsEditorWindow">
+            <summary>
+            StiPreviewSettingsEditorWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Viewer.StiPreviewSettingsEditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsFilters">
+            <summary>
+            StiCloudColumnsFilters
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsFilters.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsGroup">
+            <summary>
+            StiCloudColumnsGroup
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsGroup.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsOrder">
+            <summary>
+            StiCloudColumnsOrder
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsOrder.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsRelation">
+            <summary>
+            StiCloudColumnsRelation
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsRelation.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsSelection">
+            <summary>
+            StiCloudColumnsSelection
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsSelection.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsSort">
+            <summary>
+            StiCloudColumnsSort
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsSort.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsTotals">
+            <summary>
+            StiCloudColumnsTotals
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudColumnsTotals.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudDataBandPlacementWizardWindow">
+            <summary>
+            StiCloudDataBandPlacementWizardWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudDataBandPlacementWizardWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudDataSourcePanel">
+            <summary>
+            StiCloudDataSourcePanel
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudDataSourcePanel.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudFilterZoneControl">
+            <summary>
+            StiCloudFilterZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudFilterZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudLabelReportWizardWindow">
+            <summary>
+            StiCloudLabelReportWizardWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudLabelReportWizardWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudReportLayout">
+            <summary>
+            StiCloudReportLayout
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudReportLayout.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudSimpleColumnsOrder.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiCloudSortZoneControl">
+            <summary>
+            StiCloudSortZoneControl
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiCloudSortZoneControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiHighlightComponentControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiMasterDetailReportWizardWindow">
+            <summary>
+            StiMasterDetailReportWizardWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiMasterDetailReportWizardWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiPlacementComponentControl.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.Wizards.StiStandardReportWizardWindow">
+            <summary>
+            StiStandardReportWizardWindow
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.Wizards.StiStandardReportWizardWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Stimulsoft.Client.Designer.StiCloudColumnsThemes">
+            <summary>
+            StiCloudColumnsThemes
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.Client.Designer.StiCloudColumnsThemes.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>
